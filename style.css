@@ -6,6 +6,14 @@
     	width: 135px !important ;
     }
 }
+@media only screen and (min-width: 270px) and (max-width: 310px) {
+    .form_box{
+	    width: 250px !important;  
+    }
+    .phoneclass{
+    	width: 85px !important ;
+    }
+}
 span{
 	color: red;
 }
