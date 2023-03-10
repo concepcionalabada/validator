@@ -27,7 +27,7 @@
 			</ul>
 			
 			<div class="input-row">
-				 	<a href="index.php"><input type="submit" value="Validate Another Form" name="" ></a>
+				 	<a href="index.html"><input type="submit" value="Validate Another Form" name="" ></a>
 				  
 			</div>
 		 </div>
