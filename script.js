@@ -42,7 +42,7 @@ if (pass.value == "" ||pass.value.length < 6) {
 }
 //phone no validation  /^\(?([5-9]{1})\)?([0-9]{9})$/)
 
-if (!phne.value.match(/^\d{9}$/) ||phne.value == "") {
+if (!phne.value.match(/^\d{10}$/) ||phne.value == "") {
    phne.nextElementSibling.style.display = "block";
    phne.style.border = "1px solid #f00";
    return false
